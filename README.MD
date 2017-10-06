@@ -1,4 +1,4 @@
-﻿## Install
+## Install
 The new version of `makcumka/sypexgeophp` using [Composer] (http://getcomposer.org).
 
 ```bash
