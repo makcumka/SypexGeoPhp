@@ -1,0 +1,11 @@
+{
+    "name": "makcumka/sypexgeophp",
+    "description": "SypexGeo PHP lib",
+    "authors": [
+        {
+            "name": "Binovator",
+            "email": "info@sypex.net"
+        }
+    ],
+    "require": {}
+}
